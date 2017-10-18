@@ -27,7 +27,8 @@ var release_date = document.getElementById("release_date");
     if (httpRequest.readyState === XMLHttpRequest.DONE) {
       if (httpRequest.status === 200) {
           
-       responseContent = httpRequest.responseText;                  console.log(responseContent);
+       responseContent = httpRequest.responseText;                  
+        console.log(responseContent);
 
          var parsed = JSON.parse(responseContent);
 
