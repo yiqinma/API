@@ -1,0 +1,62 @@
+body {
+    background-color: #353030;
+}
+
+p.ex2 {
+    font: 16px Andale Mono, sans-serif; color: #ffe81f
+}
+
+p.ex1 {
+    margin-bottom: 40px;
+    margin-right: 350px;
+    margin-left: 350px;
+    font: 16px Andale Mono, sans-serif;
+    text-align:justify;
+    color: #ffe81f;
+}
+
+.button {
+    border: none;
+    padding: 15px 22px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+.button1 {
+    background-color: #353030; 
+    color: #ffe81f; 
+    border: 2px solid #ffe81f;
+}
+
+.button1:hover {
+    background-color: #ffe81f;
+    color: #353030;
+}
+
+  .wrapper {
+    text-align:center ;
+    margin-top:40px;
+    margin-bottom:70px;
+}
+
+img {
+    display: block;
+    margin-right:350px;
+    margin-left:350px;
+}
+
+.liu {
+    background: #353030;
+    margin-bottom: 20px;
+    margin-right: 350px;
+    margin-left: 350px;
+    font: 16px Andale Mono, sans-serif;
+    text-align:justify;
+    color: #ffe81f;
+}
